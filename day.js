@@ -8,3 +8,4 @@ result = sum (result, 3)
 console.log('Final result: ', result)
 
 // Hi miracle Github deerees uurchilluu
+// Local deerees uurchilluu
